@@ -7,7 +7,7 @@ categories: [Programming]
 ## Introduction
 Competitive Programming is one of the many fields of Computer Science that attracts little attention compared to other mainstream disciplines. It is a mind sport where contestants write code to solve challenging mathematical and logical problems in a short period of time. A multi-discplinary field that involves programming, mathematics and problem-solving seemed like a perfect fit for me, or so I thought.
 
-Few years back in high school, as an absolute beginner I tried joining codeforces to participate in my first competition and failed miserably, solving 0 questions. I gave up. 
+Few years back in high school, as an absolute beginner I tried joining [codeforces](https://codeforces.com/) to participate in my first competition and failed miserably, solving 0 questions. I gave up. 
 Until this year, I decided to give it another shot... but this time it was a 1 week long competitive programming bootcamp offered by [inzva](https://inzva.com/), a community coding club in Turkey.
 
 Although I am still a beginner, I am writing this to share my observations of my fellows whom I met at the bootcamp and those who were more experienced at it. These people always struck me as smart geniuses who are able to solve challenging problems by writing code.
