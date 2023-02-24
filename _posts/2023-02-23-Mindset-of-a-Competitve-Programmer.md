@@ -1,6 +1,6 @@
 ---
 title: 'Mindset of a Competitive Programmer'
-date: 2023-02-22 18:55:00 +0300
+date: 2023-02-23 18:55:00 +0300
 categories: [Programming]
 ---
 
